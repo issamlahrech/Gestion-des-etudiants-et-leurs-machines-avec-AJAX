@@ -1,0 +1,156 @@
+
+body, h1, h2, h3, ul, li, p, form {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+
+.header {
+    background-color: #ffffff;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.header img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+.menu {
+    background-color: activeborder;
+    color: #333;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.menu ul {
+    list-style-type: none;
+}
+
+.menu li {
+    display: inline;
+    margin: 0 20px;
+}
+
+.menu a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.menu a:hover {
+    text-decoration: underline;
+}
+
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer img {
+    max-width: 100px;
+    height: auto;
+}
+
+/* Content Styles */
+.content {
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Form Styles */
+form {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+
+/* Style du tableau */
+table {
+    width: auto;
+    border-collapse: collapse;
+    border-spacing: 0;
+    border: 1px solid #ddd;
+    margin: 0 auto;
+    background-color: transparent; /* Couleur de fond verte */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Ombre pour le tableau */
+}
+
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+    color: #333; /* Couleur du texte de l'en-tête */
+}
+
+tr:nth-child(even) {
+    background-color: #45a049; /* Couleur d'arrière-plan des lignes paires */
+}
+
+tr:nth-child(odd) {
+    background-color: #45a049; /* Couleur d'arrière-plan des lignes impaires */
+}
+
+
+
+/* Style pour le texte des boutons dans le tableau */
+.content .bndelete{
+     background-color: red; /* Green */
+    color: white;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.content .bnupdate {
+    background-color: blue; /* Green */
+    color: white;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.content .bndelete:hover {
+    background-color: #d32f2f; /* Red */
+}
+
+.content .bnupdate:hover {
+    background-color: darkblue;
+}
+
+input[type=submit], button { 
+    width: 25%;
+    background-color: #45a049; 
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+form {
+    max-width: 100%; 
+    margin: 0;
+}
+
