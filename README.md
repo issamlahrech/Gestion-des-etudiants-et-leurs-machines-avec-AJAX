@@ -6,43 +6,55 @@ Cette application web est conçue pour la gestion des étudiants, des marques de
 
 Interface de notre site :
 
-![image](https://github.com/issamlahrech/ajaxtp/assets/147448984/ae684dd3-a2c3-462b-b6e9-51ff7fa7801e)
+![image](https://github.com/issamlahrech/ajaxtp/assets/147448984/86ec4a80-f30e-48ee-b6ae-9c3bc4b9b86b)
+
 
 Ajout de l`etudiant :
 
-![image](https://github.com/issamlahrech/ajaxtp/assets/147448984/c0b18fd5-93ef-4df3-b969-149eb4d95682)
-![image](https://github.com/issamlahrech/ajaxtp/assets/147448984/51020e79-ca74-48a2-a69f-1cf4ffa0c936)
+![image](https://github.com/issamlahrech/ajaxtp/assets/147448984/85a8ead8-c380-414f-8c13-2b54f05da7e2)
+![image](https://github.com/issamlahrech/ajaxtp/assets/147448984/9f2bf2fd-f4cd-408f-991f-3113e341c179)
+
+
+
+
 
 Suppression :
 
-![image](https://github.com/issamlahrech/ajaxtp/assets/147448984/23bd9468-a029-4132-98d0-e95d726fa1aa)
-![image](https://github.com/issamlahrech/ajaxtp/assets/147448984/e46340d4-cc2d-49fa-bb0e-f5eb2c1673f7)
+![image](https://github.com/issamlahrech/ajaxtp/assets/147448984/7d01c665-b0c6-4e8a-b687-dbfb37ddbbd3)
+![image](https://github.com/issamlahrech/ajaxtp/assets/147448984/2a564196-02e1-4e89-a204-42f56cb830e8)
+
 
 Modification :
 
-![image](https://github.com/issamlahrech/ajaxtp/assets/147448984/7f1efefd-c5f7-4276-a3f0-f75491b592c8)
-![image](https://github.com/issamlahrech/ajaxtp/assets/147448984/45882ced-c2e7-4578-965f-88ed31fe2fbd)
-![image](https://github.com/issamlahrech/ajaxtp/assets/147448984/37af7a4d-d573-476f-be94-545ce9872345)
+![image](https://github.com/issamlahrech/ajaxtp/assets/147448984/9870ee1e-9436-4b39-bd7c-e64fbe9e1b35)
+![image](https://github.com/issamlahrech/ajaxtp/assets/147448984/8d27b823-77d9-4547-8283-6028362c72cc)
+![image](https://github.com/issamlahrech/ajaxtp/assets/147448984/7d5d1817-77ce-4bfd-9eb7-1f3330ac1392)
+
+
 
 Gestion des marques :
 
-![image](https://github.com/issamlahrech/ajaxtp/assets/147448984/c60a8b5f-2a6d-45fa-9227-1df334fbebbf)
+![image](https://github.com/issamlahrech/ajaxtp/assets/147448984/351a098a-c3b8-410e-b197-9e2a0fa97da7)
+
 
 Gestion des machines :
 
-![image](https://github.com/issamlahrech/ajaxtp/assets/147448984/b88d0228-7ec3-4406-96ba-5618c6edb826)
+![image](https://github.com/issamlahrech/ajaxtp/assets/147448984/26852ddc-f0cf-4b5f-873c-9e640391f710)
+
 
 Machines par marque :
 
-![image](https://github.com/issamlahrech/ajaxtp/assets/147448984/8511a48d-97a2-4d0b-82dd-b9bcacbf71ec)
+![image](https://github.com/issamlahrech/ajaxtp/assets/147448984/50006ec2-ff8c-4c06-8566-ecfb79043635)
+
 
 Machines par reference :
 
-![image](https://github.com/issamlahrech/ajaxtp/assets/147448984/ba0a402b-16f1-4ec0-bf5e-be7412171e04)
+![image](https://github.com/issamlahrech/ajaxtp/assets/147448984/cf157e9b-6ac7-4dd1-b516-ff6366e42560)
+
 
 Graphe :
 
-![image](https://github.com/issamlahrech/ajaxtp/assets/147448984/ce7baae9-4e0b-410a-b1ff-e95366ad55f7)
+![image](https://github.com/issamlahrech/ajaxtp/assets/147448984/1865b8a7-2a1c-4414-9e3a-6f570642ffff)
 
 # Technologies implémentées
 - Java
